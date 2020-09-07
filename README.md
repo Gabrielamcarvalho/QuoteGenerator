@@ -1,8 +1,9 @@
 # QUOTE GENERATOR
 For people who need a moment of reflexion, generate a new wise quote every time you click a button!
-It also change colors, one color more beaufitul than the next one. 
+It also change colors, one color more beaufitul than the next. 
 Also possibility to share the quote on twitter. You will look very wise :wink:
 
+*  This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 1 of 20.
 
 ## [View Demo](https://gabrielamcarvalho.github.io/QuoteGenerator/)
 ![Quote Generator ScreenShot](QuoteGenerator.jpg)
